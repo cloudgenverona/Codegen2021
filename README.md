@@ -4,7 +4,6 @@
 
 | Session | Content |
 | ------ | ------ |
-| Presentazione CloudGen Verona e Codici Sconto | [Content][LinkPresentazioneIniziale] |
 | Build reliable web applications using Cypress |  |
 | Let's Build a Game |  |
 | Angular & Rxjs: scenari e casi d’uso reali |  |
@@ -66,7 +65,7 @@
 | MRTK and Oculus ... creating a small game in less than an hour!? |  |
 
 
-   [LinkProtectBlazor]: <https://github.com/cloudgenverona/Codegen2021/tree/master/Blazor%20WebAssembly%20%20tecniche%20di%20protezione%20delle%20dll%20esposte%20nei%20browser>
-   [LinkChiBenComincia]: <https://github.com/cloudgenverona/Codegen2021/tree/master/Chi%20ben%20inizia%20è%20già%20a%20metà%20dell'opera>
-   [LinkInteractive]: <https://github.com/cloudgenverona/Codegen2021/tree/master/net-interactive-for-your-code-and-azure>
-   [LinkMachine]: <https://github.com/cloudgenverona/Codegen2021/tree/master/(Machine)%20Learning%20to%20Social%20Distance>
+   [LinkProtectBlazor]: <https://github.com/cloudgenverona/Codegen2021/tree/main/Materials/Blazor%20WebAssembly%20%20tecniche%20di%20protezione%20delle%20dll%20esposte%20nei%20browser>
+   [LinkChiBenComincia]: <https://github.com/cloudgenverona/Codegen2021/tree/main/Materials/Chi%20ben%20inizia%20%C3%A8%20gi%C3%A0%20a%20met%C3%A0%20dell'opera>
+   [LinkInteractive]: <https://github.com/cloudgenverona/Codegen2021/tree/main/Materials/net-interactive-for-your-code-and-azure>
+   [LinkMachine]: <https://github.com/cloudgenverona/Codegen2021/tree/main/Materials/(Machine)%20Learning%20to%20Social%20Distance>
